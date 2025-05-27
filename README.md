@@ -1,9 +1,9 @@
 # adk-ext
 
-[![Python Unit Tests](https://github.com/nandagopalan/adk-ext-python/actions/workflows/unittest.yml/badge.svg)](https://github.com/nandagopalan/adk-ext-python/actions/workflows/unittest.yml)
+[![Python Unit Tests](https://github.com/nandlabs/adk-ext-python/actions/workflows/unittest.yml/badge.svg)](https://github.com/nandlabs/adk-ext-python/actions/workflows/unittest.yml)
 [![Python Versions](https://img.shields.io/badge/python-3.9%20|%203.10%20|%203.11-blue)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-0.0.1-green)](https://github.com/nandagopalan/adk-ext-python)
+[![Version](https://img.shields.io/badge/version-0.0.1-green)](https://github.com/nandlabs/adk-ext-python)
 
 A comprehensive Python extension library for Google's Agent Development Kit (ADK).
 
